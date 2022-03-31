@@ -1,6 +1,10 @@
 # iosifv.eth
 Simple one page content for my web3.0 personal page
 
+### Explanations
+
+I used a tutorial I found here: https://dri.es/my-first-web3-webpage
+For IPFS/IPNS after trying a few times and failing to install a node on my server, I ended up using an online service: https://fleek.co/
 
 ### Records set on ENS
 
@@ -17,7 +21,7 @@ Content
 
 | Content |
 | ------- |
-| IPFS Link |
+| ipns://k51qzi5uqu5dm5307szdfmpqlb7b7nsggqmgho2yff91rl5mpqbpziqtb8gsds |
 
 
 Text Records
