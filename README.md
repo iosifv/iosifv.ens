@@ -22,6 +22,7 @@ Content
 | Content |
 | ------- |
 | ipns://k51qzi5uqu5dm5307szdfmpqlb7b7nsggqmgho2yff91rl5mpqbpziqtb8gsds |
+| ipfs://bafybeigdnxri7qeqpmkwxgh6o7fzwhk4nto3ztqwx33dmmowvzizlcw74a |
 
 Text Records
 
@@ -29,8 +30,7 @@ Text Records
 | ------                | ------- |
 | email                 | eth@iosifv.com |
 | url                   | https://iosifv.com |
-| avatar img            | https://iosifv.com/assets/images/profile/square-smile-profile.jpg |
-| avatar logo           | https://iosifv.com/assets/images/logo/new/logo-960x960-no_text-yellow_blue.png |
+| avatar logo           | ipfs://bafybeihgym4fd4nymsrtutgipz3ggti5bodetf74nrdzu3vmhggc4ded7y |
 | description           | Your friendly blockchain enthusiast :) |
 | notice                | Not set |
 | keywords              | Not set |
